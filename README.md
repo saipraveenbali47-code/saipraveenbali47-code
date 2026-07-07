@@ -206,7 +206,8 @@ While formal industry experience is currently in progress, my hands-on project w
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=saipraveenbali47-code&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=8B5CF6&text_color=c9d1d9" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=saipraveenbali47-code&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=8B5CF6&currStreakLabel=A855F7" width="49%" />
+
+<img src="https://streak-stats.demolab.com/?user=saipraveenbali47-code&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=8B5CF6&currStreakLabel=A855F7" width="49%" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saipraveenbali47-code&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=c9d1d9" width="49%" />
 
