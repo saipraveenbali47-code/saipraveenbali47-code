@@ -194,7 +194,7 @@ While formal industry experience is currently in progress, my hands-on project w
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Solve-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Uw29jNOX5G/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Solve-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/saipraveen14/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/saipraveenbali47)
 
 </div>
