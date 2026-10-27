@@ -14,7 +14,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-8B5CF6?style=for-the-badge&logo=firefox&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-8B5CF6?style=for-the-badge&logo=firefox&logoColor=white)](https://saipraveenbali47-code.github.io/Portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bali-sai-praveen-cse-b8008934b)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-5B21B6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saipraveenbali47@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-4C1D95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saipraveenbali47-code)
